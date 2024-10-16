@@ -1,0 +1,14 @@
+Id: MyCompany.MyApp
+Name: My App
+Publisher: MyCompany
+Version: 1.0.0
+AppMoniker: myapp
+Tags: [utility, productivity]
+Description: A brief description of your app.
+Homepage: https://mycompany.com/myapp
+License: MIT
+InstallerType: exe
+Installers:
+  - Architecture: x64
+    InstallerUrl: file://C:/winget-repo/installer/WingetSample.exe
+    InstallerSha256: 4EAF3DE0FE71660E5211DABCB035EF6E347335E2F3B72400309FC762E567E6FA
